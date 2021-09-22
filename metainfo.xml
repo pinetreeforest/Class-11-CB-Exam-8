@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="64677007-12B0-4280-975E-D97044AD6ED7" version="0">
+	<info>
+		<title>Exam-8</title>
+		<description/>
+	</info>
+	<files index="id25" thumbnail="id21" totalSize="2411323">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-0a6f7de5d09ff6a2e8ff8854df87ddf6bc5dff24.png</file>
+		<file id="id10">data/images/img-0a973eaf6eeb116451c58da0740f4081e524c31a.jpg</file>
+		<file id="id11">data/images/img-1263f1117fb343b8281c2b66426aaddb3a3f1c54.jpg</file>
+		<file id="id12">data/images/img-1649efd26d3b1aaf2dcb0e86ac328b89f6b0d616.png</file>
+		<file id="id13">data/images/img-1fcdc983e6a76553d1ccf0ba47ba6412f86b4548.png</file>
+		<file id="id14">data/images/img-72471670e5550b56e19a84a062956852d98ba1ac.jpg</file>
+		<file id="id15">data/images/img-a8de4aaab8ac813653b3c23d3701ad455c254f16.jpg</file>
+		<file id="id16">data/images/img-ab6967884960b09a6acd316fabe9f7c916b9776d.png</file>
+		<file id="id17">data/images/img-ad3015931d1fef0c93cb19e6f4f4c5dfa4675e60.jpg</file>
+		<file id="id18">data/images/img-d56f7cc1acfa86411bbaa204486136f509de44d2.png</file>
+		<file id="id19">data/ismplayer/app_store2x.png</file>
+		<file id="id20">data/ismplayer/play.svg</file>
+		<file id="id21">data/ismplayer/preview.png</file>
+		<file id="id22">data/ismplayer/style.css</file>
+		<file id="id23">data/ismplayer/style_mini.css</file>
+		<file id="id24">data/player.js</file>
+		<file id="id25">index.html</file>
+		<file id="id26">ismplayer.html</file>
+		<file id="id27">preview.png</file>
+	</files>
+</presentation>
+
